@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Moc'ing qvs.h...
+  Uic'ing qvs.ui...
+  Rcc'ing qvs.qrc...
+RCC : warning : No resources in 'D:\study\personcode\QTCode\src\QVS\qvs.qrc'.
+  
+  moc_qvs.cpp
+  main.cpp
+  qvs.cpp
+  正在生成代码...
+  qrc_qvs.cpp
+  QVS.vcxproj -> D:\study\personcode\QTCode\src\QVS\..\..\bin\QVS.exe
+  QVS.vcxproj -> ..\..\bin\QVS.pdb (Full PDB)
