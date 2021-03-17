@@ -13,3 +13,7 @@ xiacaojun Teacher
 
 4.sdl_qt_rgb项目
 在VS2019中使用QT的label控件作为SDL的窗口进行渲染一张rgb图像
+
+5.sdl_qt_merge项目
+在VS2019中使用QT的label控件作为SDL的窗口进行渲染一张rgb图像，
+这张图像是两张图片合并好的图像

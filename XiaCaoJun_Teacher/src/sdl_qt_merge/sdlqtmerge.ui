@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>SdlQtMergeClass</class>
+ <widget class="QWidget" name="SdlQtMergeClass">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>697</width>
+    <height>652</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>SdlQtMerge</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>70</x>
+     <y>110</y>
+     <width>400</width>
+     <height>300</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Video</string>
+   </property>
+  </widget>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources>
+  <include location="sdlqtmerge.qrc"/>
+ </resources>
+ <connections/>
+</ui>
