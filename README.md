@@ -10,3 +10,6 @@ xiacaojun Teacher
 
 3.test_rgb_qt项目
 在VS2019中使用QT窗口显示一个rgb图像
+
+4.sdl_qt_rgb项目
+在VS2019中使用QT的label控件作为SDL的窗口进行渲染一张rgb图像
