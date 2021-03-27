@@ -20,3 +20,6 @@ xiacaojun Teacher
 
 6.sdl_qt_play_yuv项目
 在VS2019中使用QT的label控件作为SDL的窗口进行渲染yuv图像
+
+7.xvideo_view_test项目
+在VS2019中使用工厂模式封装SDL，渲染YUV图像
